@@ -560,3 +560,7 @@ If it's good code that fits with the goals of the project, we'll merge it in!
 # License
 
 batman.js is copyright 2012 by [Shopify](http://www.shopify.com), released under the MIT License (see LICENSE for details).
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/extsandbox/batman/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
